@@ -27,16 +27,16 @@ This lab focused on learning how to **collect, clean, and analyze financial data
 - Learned how to combine **scraped web data with financial APIs** for richer insights.  
 
 ### 🔹 Tesla  
-![Tesla Stock Trend](images/tesla_stock.png)  
+![Tesla Stock Trend](images/Tesla-img-1.png)  
 *Tesla’s historical share price started relatively low, rose significantly with a peak around $300, and then declined slightly but stayed above $200.*  
 
-![Tesla Revenue](images/tesla_revenue.png)  
+![Tesla Revenue](images/Tesla-img-2.png)  
 *Tesla’s revenue shows a steady concave increase from the 2000s through 2021, reflecting consistent growth in sales.*  
 
 ### 🔹 GameStop  
-![GameStop Stock Trend](images/gamestop_stock.png)  
+![GameStop Stock Trend](images/Gme-img-1.png)  
 *GameStop’s stock price remained steady for years, then spiked sharply, reaching a peak around $80 before stabilizing. The lowest values hovered near $0.*  
 
-![GameStop Revenue](images/gamestop_revenue.png)  
+![GameStop Revenue](images/Gme-img-2.png)  
 *GameStop’s revenue climbed steadily over the years, peaking near $10,000 million, before dropping to around $6,000 million in 2020.*  
  
